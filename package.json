@@ -1,0 +1,19 @@
+{
+  "name": "random-string-msg-h",
+  "version": "1.0.0",
+  "description": "random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nicolas Saunders",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
