@@ -1,13 +1,17 @@
 {
-  "name": "random-string-msg-h",
-  "version": "1.0.1",
+  "name": "random-string-msg-hell",
+  "version": "1.0.2",
   "description": "random string messages",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "git+https://github.com/saundersnico/random-string-msg-hell.git"
+  },
   "keywords": [],
-  "author": "Nicolas Saunders",
+  "author": "Nicolas Saunders <hellfkyocelot@gmail.com>",
   "license": "MIT",
   "bin": {
     "random-str-msg": "./bin/global.js"
